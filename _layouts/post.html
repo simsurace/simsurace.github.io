@@ -1,0 +1,27 @@
+---
+layout: common
+---
+
+<h1>{{page.title}}</h1>
+
+<div style="text-align: right;">
+  {{ page.date | date: '%B %Y' }}
+</div>
+
+<div class="content">
+
+  {{ content }}
+
+</div>
+
+<table class="footer">
+  <td class="prev">
+    <a href="{{page.previous.url}}">{{page.previous.title}}</a>
+  </td>
+  <td class="home">
+    <a href="{{site.url}}/">Home</a>
+  </td>
+  <td class="next">
+    <a href="{{page.next.url}}">{{page.next.title}}</a>
+  </td>
+</table>
