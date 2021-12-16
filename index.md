@@ -27,10 +27,10 @@ title: home
 *2009--2013*: Part-time high school teacher in Math/Physics  
 
 ## Education
-2016: PhD Neuroscience, University of Bern  
+2016: PhD Computational Neuroscience, University of Bern  
 2011: MSc Theoretical Physics, University of Bern  
 
-## Blog posts
+<!-- ## Blog posts -->
 
 <ul>
 {% for post in site.posts %}
