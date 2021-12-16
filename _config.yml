@@ -1,7 +1,6 @@
 kramdown:
   input: GFM
 plugins:
-  - jekyll-avatar
   - jekyll-feed
 title: Simone Carlo Surace's Blog
 author: Simone Carlo Surace
