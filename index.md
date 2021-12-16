@@ -13,7 +13,7 @@ title: home
 ## Interests
 - Time series analysis / stochastic processes
 - Reinforcement learning / control problems
-- Scientific programming 
+- Scientific / high-performance computing 
 - Information geometry & optimal transport 
 
 ## Experience
