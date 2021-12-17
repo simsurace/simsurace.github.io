@@ -23,8 +23,8 @@ title: home
 *2018--2021*: Postdoctoral Researcher, University of Bern  
 *2016--2017*: Postdoctoral Researcher, [INI](https://www.ini.uzh.ch/en.html), University and ETH Zurich  
 *2011--2016*: Doctoral Researcher, University of Bern  
-*2008--2011*: Part-time scientific intern/collaborator, [TOFWERK](https://www.tofwerk.com/), Thun  
 *2009--2013*: Part-time high school teacher in Math/Physics  
+*2008--2011*: Part-time scientific intern/collaborator, [TOFWERK](https://www.tofwerk.com/), Thun  
 
 ## Education
 2016: PhD Computational Neuroscience, University of Bern  
