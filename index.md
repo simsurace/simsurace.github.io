@@ -3,7 +3,7 @@ layout: page
 title: home
 ---
 
-<img align="right" class="image-cropper" src="https://avatars3.githubusercontent.com/simsurace?v=3&amp;s=200" alt="simsurace" srcset="https://avatars3.githubusercontent.com/simsurace?v=3&amp;s=200 1x, https://avatars3.githubusercontent.com/simsurace?v=3&amp;s=400 2x, https://avatars3.githubusercontent.com/simsurace?v=3&amp;s=600 3x, https://avatars3.githubusercontent.com/simsurace?v=3&amp;s=800 4x" width="200" height="200" />
+<img align="right" class="image-cropper" src="https://avatars3.githubusercontent.com/simsurace?v=3&amp;s=200" alt="simsurace" srcset="https://avatars3.githubusercontent.com/simsurace?v=3&amp;s=200 1x, https://avatars3.githubusercontent.com/simsurace?v=3&amp;s=400 2x, https://avatars3.githubusercontent.com/simsurace?v=3&amp;s=600 3x, https://avatars3.githubusercontent.com/simsurace?v=3&amp;s=800 4x" width="33%" />
 
 # Simone Carlo Surace
 ### *Data Scientist based in Switzerland*
