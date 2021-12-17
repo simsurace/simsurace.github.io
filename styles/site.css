@@ -1,6 +1,6 @@
 :root {
   --padding: 25px;
-  --syntax-background: #3f3f3f;
+  --syntax-background: rgb(47, 56, 54);
   --background: rgb(235, 247, 244);
 }
 html {
@@ -52,7 +52,7 @@ h2 {
 h3 {
   font-size: 100%;
   margin-top: 1em;
-  font-weight: normal;
+  font-weight: 550;
   margin-bottom: -15px;
 }
 
@@ -119,11 +119,11 @@ blockquote em {
 }
 
 .footnotes {
-  font-size: 90%;
+  font-size: 80%;
 }
 
 .footer {
-  font-size: 90%;
+  font-size: 100%;
   margin-top: 20px;
   color: #535353;
   width: 100%;
