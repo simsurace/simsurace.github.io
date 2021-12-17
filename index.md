@@ -3,7 +3,7 @@ layout: page
 title: home
 ---
 
-<img align="right" class="image-cropper" src="{{site.url}}/assets/portrait crop.jpg" width="33%" />
+<img align="right" class="image-cropper" src="{{site.url}}/assets/portrait.jpg" width="33%" />
 
 # Simone Carlo Surace
 ### *Data Scientist based in Switzerland*
