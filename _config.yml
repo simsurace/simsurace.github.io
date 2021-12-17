@@ -2,6 +2,7 @@ kramdown:
   input: GFM
 plugins:
   - jekyll-feed
+  - jekyll-katex
 title: Simone Carlo Surace's Blog
 author: Simone Carlo Surace
 feed:
