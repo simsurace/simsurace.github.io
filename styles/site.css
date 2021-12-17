@@ -64,14 +64,12 @@ hr {
 }
 
 a {
-  color: inherit;
+  color: rgb(0, 90, 68);
   text-decoration: inherit;
-  font-weight: lighter;
-  border-bottom: solid 1px rgb(136, 212, 193);
-  border-radius: 3px;
+  font-weight: inherit;
 }
 a:hover {
-  border-color: rgb(3, 165, 124);
+  color: rgb(31, 184, 145);
 }
 
 .desc {
