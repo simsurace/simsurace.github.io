@@ -29,7 +29,7 @@ title: home
 [more details...](cv.html)
 
 ## Education
-2016: [PhD Computational Neuroscience](assets/phd-thesis-surace.pdf), University of Bern  
+2016: [PhD Neuroscience](assets/phd-thesis-surace.pdf), University of Bern  
 2011: [MSc Theoretical Physics](assets/master-thesis-surace.pdf){:target="_blank"}, University of Bern  
 2009: BSc Physics/Mathematics, University of Bern
 
