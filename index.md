@@ -19,8 +19,7 @@ title: home
 ## Experience
 *2024--now*: [Co-Founder and Partner](cv/flock.html), [Flock Labs AG](https://www.flock-labs.com), Bern  
 *2021--2024*: [Data / ML scientist](cv/artificialy.html), [Artificialy SA](https://www.artificialy.com/){:target="_blank"}, Lugano  
-*2021*: [Scientific advisor](cv/olz.html), [OLZ AG](https://olz.ch/){:target="_blank"}, Bern  
-*2021--2021*: [Freelance researcher](cv/booth.html), [Booth School of Business](https://www.chicagobooth.edu/){:target="_blank"}, Chicago (remote)  
+*2020--2021*: [Freelance Data Scientist / Researcher](cv/freelance.html)  
 *2018--2021*: [Postdoctoral researcher](cv/postdoc2.html), University of Bern  
 *2016--2017*: [Postdoctoral researcher](cv/postdoc1.html), [INI](https://www.ini.uzh.ch/en.html){:target="_blank"}, University and ETH Zurich  
 *2011--2016*: [Doctoral researcher](cv/doc.html), University of Bern  
